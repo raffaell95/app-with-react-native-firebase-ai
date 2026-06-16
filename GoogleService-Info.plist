@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyAyzwuNtfp4UR2bL5glD7tDXJkuSBohwCw</string>
+	<key>GCM_SENDER_ID</key>
+	<string>61071183627</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.raffa.motivaaiapp</string>
+	<key>PROJECT_ID</key>
+	<string>motiva-ia-dev</string>
+	<key>STORAGE_BUCKET</key>
+	<string>motiva-ia-dev.firebasestorage.app</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:61071183627:ios:44d175e38296e82e8fdc0e</string>
+</dict>
+</plist>

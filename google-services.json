@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "61071183627",
+    "project_id": "motiva-ia-dev",
+    "storage_bucket": "motiva-ia-dev.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:61071183627:android:ecbe628ff0f2f0f88fdc0e",
+        "android_client_info": {
+          "package_name": "com.raffa.motivaaiapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDptaPZcxrjd2sF-3Zh-EgdqxDKRlGhfeU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
